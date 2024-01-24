@@ -3,13 +3,13 @@
   </a>
 
 <div align="center">
-  <h1> Olá, tudo certo? 👋 </h1>
-  <h3>A developer backend from Brazil 🌎</h3>
+  <h1> Hey, What’s up?👋 </h1>
+  <h3>🔭 A developer backend from Brazil 🌎</h3>
 </div> 
 
-- 🔭 Desenvolvedor Back-end
-- 🌱 Estudando LARAVEL e ABAP SAP
-
+- 📝 I’m currently learning LARAVEL and ABAP SAP.
+- 🚀 Aiming to be a full stack.
+  
 ##
 <h3>Code:</h3>
 <div style="display: inline;">
