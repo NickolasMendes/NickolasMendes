@@ -1,8 +1,17 @@
-### Olá, sou o Nickolas Mendes 👋
+<a target="_blank" href="">
+    <img src="https://cdn.discordapp.com/attachments/742479609723093046/1199787553956581386/setup.png?ex=65c3d03b&is=65b15b3b&hm=46333f0d1178e312b50bef9bf71d9abf11e59c14fb777bb82687df8b494111f4&" />
+  </a>
+
+<div align="center">
+  <h1> Olá, tudo certo? 👋 </h1>
+  <h3>A developer backend from Brazil 🌎</h3>
+</div> 
 
 - 🔭 Desenvolvedor Back-end
 - 🌱 Estudando LARAVEL e ABAP SAP
 
+##
+<h3>Code:</h3>
 <div style="display: inline;">
   <a target="_blank" href="https://github.com/NickolasMendes?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=NickolasMendes&show_icons=true&theme=tokyonight&include_all_commits=true" /><img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasMendes&layout=compact&theme=tokyonight&include_all_commits=true" />
@@ -11,7 +20,7 @@
 
 <br />
 
-<h3>Especializações:</h3>
+<h4>Especializações:</h4>
 <div style="display: inline;">
   <a target="_blank" href="https://html.com/document/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a target="_blank" href="https://devdocs.io/css/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
