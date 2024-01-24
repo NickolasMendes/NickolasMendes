@@ -1,5 +1,8 @@
 ### Olá, sou o Nickolas Mendes 👋
 
+- 🔭 Desenvolvedor Back-end
+- 🌱 Estudando LARAVEL e ABAP SAP
+
 <div style="display: inline;">
   <a target="_blank" href="https://github.com/NickolasMendes?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=NickolasMendes&show_icons=true&theme=tokyonight&include_all_commits=true" /><img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasMendes&layout=compact&theme=tokyonight&include_all_commits=true" />
