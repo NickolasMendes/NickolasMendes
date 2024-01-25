@@ -20,7 +20,7 @@
 
 <br />
 
-<h4>Especializações:</h4>
+<h4>Specializations:</h4>
 <div style="display: inline;">
   <a target="_blank" href="https://html.com/document/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a target="_blank" href="https://devdocs.io/css/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
@@ -32,7 +32,7 @@
 
 ##
 
-<h3>Contato:</h3>
+<h3>contact:</h3>
 <div style="display: inline;">
   <a target="_blank" href="https://www.linkedin.com/in/nickolas-mendes-de-camilis-a094a7249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/nmcamiliss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
