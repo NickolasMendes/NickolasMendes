@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1> Hey, What’s up?👋 </h1>
-  <h3>🔭 A developer backend from Brazil 🌎</h3>
+  <h3>🔭 A backend developer from Brazil 🌎</h3>
 </div> 
 
 - 📝 I’m currently learning LARAVEL and ABAP SAP.
