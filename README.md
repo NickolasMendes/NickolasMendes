@@ -1,5 +1,5 @@
 <a target="_blank" href="">
-    <img src="https://cdn.discordapp.com/attachments/742479609723093046/1199787553956581386/setup.png?ex=65c3d03b&is=65b15b3b&hm=46333f0d1178e312b50bef9bf71d9abf11e59c14fb777bb82687df8b494111f4&" />
+    <img src="https://cdn.discordapp.com/attachments/742479609723093046/1199787553956581386/setup.png?ex=66727efb&is=66712d7b&hm=00ebdb18adf75b65b5e376f3af78a064b4a734a8dcb1ff024d69ddb7975370ee&" />
   </a>
 
 <div align="center">
