@@ -26,7 +26,7 @@
   <a target="_blank" href="https://devdocs.io/css/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
   <a target="_blank" href="https://devdocs.io/javascript/" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a target="_blank" href="https://www.php.net/docs.php"><img align="center" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
-  <a target="_blank" href="https://laravel.com/docs/10.x/installation#why-laravel"><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></a>
+  <a target="_blank" href="https://laravel.com/docs/10.x/installation#why-laravel"><img align="center" width="38" src="https://img.icons8.com/?size=100&id=9yPfdIAPFYys&format=png&color=000000" /></a>
   <a target="_blank" href="https://git-scm.com/doc" ><img align="center" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
 
